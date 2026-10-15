@@ -2,6 +2,9 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me gusta construir apps que comparten código entre escritorio y Android, los servidores que hay detrás y, cuando toca, el robot que las ejecuta.
 
+- 🔨 **Ahora mismo:** desarrollando mi proyecto final, un TPV para restaurantes con Kotlin y Node.js.
+- 🎯 **Busco:** prácticas o un primer empleo en desarrollo, sobre todo backend.
+
 ## Proyectos
 
 **🍽️ TPV Restaurante** · *en desarrollo, proyecto final de DAM*
