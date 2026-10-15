@@ -31,4 +31,5 @@ PostgreSQL, Prisma, Docker, Git, GitHub Actions
 
 ### Contacto
 
-nasriadrian1@gmail.com
+nasriadrian1@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/adrian-nasri-escarti-541888300/)
