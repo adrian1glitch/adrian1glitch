@@ -1,31 +1,29 @@
-# Hola, soy Adrián Nasri Escarti 👋
+## Adrián Nasri Escarti
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me gusta construir apps que comparten código entre escritorio y Android, los servidores que hay detrás y, cuando toca, el robot que las ejecuta.
+Estudio Desarrollo de Aplicaciones Multiplataforma (DAM). Lo que más me gusta es el backend, aunque también hago apps de escritorio y Android con Kotlin.
 
-- 🔨 **Ahora mismo:** desarrollando mi proyecto final, un TPV para restaurantes con Kotlin y Node.js.
-- 🎯 **Busco:** prácticas o un primer empleo en desarrollo, sobre todo backend.
+Ahora estoy con el proyecto final del ciclo, un TPV para restaurantes. Busco prácticas o un primer trabajo como desarrollador.
 
-## Proyectos
+### Proyectos
 
-**🍽️ TPV Restaurante** · *en desarrollo, proyecto final de DAM*
-Sistema de punto de venta con servidor central y una sola app con dos modos: caja en PC táctil o tablet, y comandero en el móvil de los camareros.
-`Kotlin` `Compose Multiplatform` `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker`
+**TPV Restaurante** (en desarrollo, repo privado)
+Punto de venta para restaurantes. Un servidor con API REST y una app que funciona como caja en el PC o la tablet y como comandero en el móvil de los camareros.
+Kotlin, Compose Multiplatform, Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker.
 
-**🤖 [Robot Mini Sumo](https://github.com/adrian1glitch/robot)**
-Programas en Arduino para un robot con ruedas mecanum en el ASTI Robotics Challenge: dos estrategias de sumo (una con radar sobre servo), siguelíneas y trazado de figuras.
-`C++` `Arduino` `Sensores IR` `Ultrasonidos`
+**[Robot mini sumo](https://github.com/adrian1glitch/robot)**
+Programé un robot Arduino con ruedas mecanum para el ASTI Robotics Challenge y estuve en la final de Burgos. Tiene dos versiones del sumo, un siguelíneas y pruebas de movimiento.
+C++, Arduino.
 
-**🛒 [Copa Açaí · gestión de stock](https://github.com/Scripty2k/Copa_Acai)** · *proyecto en equipo, Málaga Business Bootcamp*
-Web para controlar el stock de un negocio, diseñada en cinco días con un equipo de Países Bajos: login, alta de productos y lista de reposición en tiempo real.
-`Vue 3` `Firebase` `Firestore` `Vite`
+**[Copa Açaí](https://github.com/Scripty2k/Copa_Acai)**
+App web de control de stock que hicimos en equipo en el Málaga Business Bootcamp, en cinco días y con gente de Países Bajos.
+Vue, Firebase.
 
-## Tecnologías
+### Tecnologías
 
-**Lenguajes:** Java · Kotlin · TypeScript · C++ · Python · SQL
-**Interfaces:** Compose Multiplatform · Android Studio · HTML, CSS y JavaScript · Vue
-**Servidor y datos:** Node.js · Express · Spring Boot · APIs REST · Prisma · PostgreSQL
-**Herramientas:** Git · GitHub Actions · Docker · JUnit · Vitest
+Java, Kotlin, TypeScript, C++, Python, SQL
+Node.js, Express, Spring Boot, Compose Multiplatform, Vue
+PostgreSQL, Prisma, Docker, Git, GitHub Actions
 
-## Contacto
+### Contacto
 
-📧 nasriadrian1@gmail.com
+nasriadrian1@gmail.com
