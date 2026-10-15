@@ -10,7 +10,7 @@ Ahora estoy con el proyecto final del ciclo, un TPV para restaurantes. Busco pr�
 Punto de venta para restaurantes. Un servidor con API REST y una app que funciona como caja en el PC o la tablet y como comandero en el móvil de los camareros.  
 *Kotlin, Compose Multiplatform, Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker*
 
-**[Robot para el ASTI Robotics Challenge](https://github.com/adrian1glitch/robot)**  
+**[Robot para el ASTI Robotics Challenge](https://github.com/adriannasri/robot)**  
 Programé en Arduino un robot con ruedas mecanum para el ASTI Robotics Challenge y estuve en la final de Burgos. Hice un programa para cada prueba:
 
 - Mini sumo: echar al rival del ring sin salirse. Tengo dos versiones, una con el sensor de distancia fijo y otra con el sensor sobre un servo que va barriendo como un radar.
@@ -31,5 +31,5 @@ PostgreSQL, Prisma, Docker, Git, GitHub Actions
 
 ### Contacto
 
-[Mi web](https://adrian1glitch.github.io) · nasriadrian1@gmail.com  
+[Mi web](https://adriannasri.github.io) · nasriadrian1@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/adrian-nasri-escarti/)
