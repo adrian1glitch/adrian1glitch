@@ -12,7 +12,7 @@ Sistema de punto de venta con servidor central y una sola app con dos modos: caj
 `Kotlin` `Compose Multiplatform` `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker`
 
 **🤖 [Robot Mini Sumo](https://github.com/adrian1glitch/robot)**
-Programas en Arduino para un robot con ruedas mecanum en el ASTI Robotic Challenge: dos estrategias de sumo (una con radar sobre servo), siguelíneas y trazado de figuras.
+Programas en Arduino para un robot con ruedas mecanum en el ASTI Robotics Challenge: dos estrategias de sumo (una con radar sobre servo), siguelíneas y trazado de figuras.
 `C++` `Arduino` `Sensores IR` `Ultrasonidos`
 
 **🛒 [Copa Açaí · gestión de stock](https://github.com/Scripty2k/Copa_Acai)** · *proyecto en equipo, Málaga Business Bootcamp*
